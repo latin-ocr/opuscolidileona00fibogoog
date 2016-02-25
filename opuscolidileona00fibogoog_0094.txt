@@ -1,0 +1,37 @@
+62
+
+equalis quadrato qui fit a numero d93 sed id quod fit ex'
+ductu o b in d p quadratus εει, cum quadrati sint nu·
+meri a d et b 9 ‚ quadratus est ctiam id quod fit a nume-
+ro d t,· et sic inuenti sunt duo quadrati facientes coniunctum
+ex eis quadratum numerum, ipsum videlicet qui iit a nu·
+mero d p, quod opportebat iacere.
+
+Volo demonstrare quare ex ordinata imparium collectio-
+ne, ab uno incipiendo in infinitum egrediatur ordinata series
+quadratorum: adiaceant numeri continui ab unitateA quot-
+cumque ὁ p, p d, d c, ez, z i (t)‚· ct componatur b p cum A
+
+unitate, et egrediatqr numerus t,· similiter componatur
+
+unusquisque numerus cum suo antecedente et cum suo sc-
+quente, et sit compositus numerorum d p et p d nume-
+rus it, numerorum uero p d et d e numerus L, numero·
+rum autem d e et ez numerus M, ipsorum videlicet qui
+sunt e zet z inumerus N: dico primum numeros t, it, 1, m,
+n impares esse, ct continuos ab unitate; numerus enim z ι’
+aut par εει aut impar: si par est numerus z i, impar est
+numerus ez, et si impar est numerus z ι’, par est numerus
+cz, continui enim sunt. Quare compositus numerorum cz,
+z i, scilicet n, est impar. Similiter ostendemus, compositum
+n'umerorum d c, e z, scilicet m, imparem esse. Eodemque mo-
+do, numeros 1 it t impares esse monstrabuntur: dico quidem
+continuos impares esse numerostdc, l, m, n. Ex coniuncto
+quidem ez cum zi iactus est numerus n, et exconiunctod
+ἶε cum e z, iactus est numerus m. Quot crgo superhabundat
+numerus z i numerum dc, tot superhabundat numerus n
+
+:n veni ng. ro.
+
+ 
+
