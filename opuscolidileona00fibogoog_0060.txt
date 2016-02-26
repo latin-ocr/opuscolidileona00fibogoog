@@ -1,0 +1,38 @@
+28
+
+pro bizantiJs burse, et quia tertius homo habet medieta-
+tem burse minus medietate dragma et re una, si de me-
+dietate burse, scilicet de ¹, 5, auferatur res una et medie·
+tas dragma, scilicet l i, remanebit biz.t pro quantitate
+tertij hominis. Rursus quia quartus homo habet} unius rei
+
+’ et medietatem unius dragme minus sexta parte unius
+hursc, si de ξ unius rei et de medietate unius dragme, sci-
+licet de 5⁸5, auferatur· serta unius barse, scilicet biz. ξ, l ‚
+remanebunt l pro bizantijs quarti hominis.
+
+Dc eudem re.
+
+Suras similes quidem quatuor hominum questiones, in
+quibus multiplicia que habent cum bursa ponuntur ex
+ordine super quantitatem, quam habent super duos homi-
+nes sibi inuicem sequentes, inueni hanc generalem, uidelicet
+ut pro radice quantitatis secundi hominis habeantur 2, et
+pro radice bursa habeatur l, deinde numerus multiplicitatis
+primi et burse quam habent super secundum et tertium
+bominem, addatur super radicem secundi hominis, et ha-
+bebitur quantitas eius, et quartus bomo habebit totidem,
+et tertius homo habebit semper l , et debitum primi erit l
+semper. Deinde quot unitates sunt in multiplicitate predicta,
+tot numeros pares, a quaternario incipiendo , addantur si-
+mul ex ordine, et quot inde proueniant addatur super ra-
+dicem burso, scilicet super l‘, et habebitur quantitas burse.
+Verbi gratia: haheat primus cum bursa quadruplum secundi
+
+“ ct tertij3 secundus uero babeat quincuplum tertij et quarti.
+
+, Tertius namque sexcuplum habeat quarti et primi. Quartus ,μ’
+quoque haheat cum bursa septuplum primi et secundi.
+
+ 
+
